@@ -1,0 +1,21 @@
+.cuisinedisabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.cuisinedisabled td {
+    background-color: #f8f9fa;
+    color: #6c757d;
+}
+
+.cuisinedisabled input {
+    cursor: not-allowed;
+}
+
+.list-group .active {
+    background-color: #200a0f;
+}
+
+.knob-value {
+    background-color: white; /* replace with your desired color */
+  }
